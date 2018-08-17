@@ -22,5 +22,5 @@ The game asks different questions using different operators which include:
 
 . To get help and find out more about the game ,you will go to the Help tab on the Menu bar and select Tutorial which will also guide you on how to play the game
 
-<img src="downloads/download.jpeg"alt width"600" height="450"/>
+![Math](/download.jpeg)
 
